@@ -255,7 +255,24 @@
   background: #388E3B;
   color: var(--neutral-white, #FFF);
 }
-
+.headline-3
+{
+/* Heading/Headline 3 */
+font-family: inter-regular;
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+line-height: 36px; /* 128.571% */
+}
+.body-regular-2
+{
+/* Body/Regular/Body 2 */
+font-family: inter-regular;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+}
 @media (max-width: 575.98px) {}
 
 @media (max-width: 767.98px) {}
