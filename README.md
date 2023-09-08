@@ -37,7 +37,7 @@
 - [GitHub](https://github.com/zhackdtech)
 - [Facebook](https://www.facebook.com/profile.php?id=61550879160614)
 - [Instagram](https://www.instagram.com/marx.wil/)
-
+- [Portfolio](https://zhackdtech.github.io/portfolio-wilmarx/)
 # Deployment
 
 Just download the files and then run it in your browser, or go to [live preview](https://zhackdtech.github.io/nexcent)
