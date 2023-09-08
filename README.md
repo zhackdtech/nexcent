@@ -11,12 +11,12 @@
 <a href="https://instagram.com/marx.wil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marx.wil" height="30" width="40"></a>
 </p>
 
-#About the design: 
+# About the design: 
 <p>Project: Responsive Landing Page Design</p>
 <p>Author: https://www.figma.com/@itsmuntasirb?fuid=1280018648101202649</p>
 <p>Link: https://www.figma.com/community/file/1222060007934600841/Responsive-Landing-Page-Design-%7C-Website-Home-Page-Design-%7C-Agency-Website-UI-Design</p>
 
-#Created using:
+# Created using:
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"> 
