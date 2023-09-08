@@ -22,7 +22,6 @@ h1 {
 }
 
 h2 {
-  text-align: center;
   /* Heading/Headline 2 */
   font-family: Inter;
   font-size: 36px;
@@ -30,6 +29,16 @@ h2 {
   font-weight: 600;
   line-height: 44px;
   /* 122.222% */
+}
+
+h3 {
+  /* Heading/Headline 3 */
+  font-family: Inter;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 36px;
+  /* 128.571% */
 }
 
 .body-regular-2 {
@@ -42,6 +51,16 @@ h2 {
   /* 150% */
 }
 
+.body-regular-3 {
+  /* Body/Regular/Body 3 */
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  /* 142.857% */
+}
+
 button.btn-brand {
   display: inline-flex;
   padding: 16px 32px;
@@ -49,7 +68,6 @@ button.btn-brand {
   align-items: center;
   gap: 10px;
   text-align: center;
-
   /* Body/Medium/Body 2 */
   font-family: Inter;
   font-size: 16px;
@@ -77,7 +95,26 @@ button.btn-brand.btn-brand-primary:active {
   border-radius: 4px;
   background: var(--shade-s-2, #388E3B);
 }
+button.btn-brand.btn-brand-primary-link
+{
+  border-radius: 4px;
+  border: 1px solid var(--neutral-white);
+  background: var(--neutral-white);
+  color:var(--brand-primary);
+}
+button.btn-brand.btn-brand-primary-link:hover
+{
+  border-radius: 4px;
+  border: 1px solid var(--brand-primary) !important;
+  background: var(--neutral-white);
+}
 
+button.btn-brand.btn-brand-primary-link:active
+{
+  border-radius: 4px;
+  border: 1px solid var(--neutral-white) !important;
+  background: var(--neutral-white);
+}
 .bs-icon {
   --bs-icon-size: .75rem;
   display: flex;
