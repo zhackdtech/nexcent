@@ -12,20 +12,22 @@
 </p>
 
 #About the design: 
-Project: Responsive Landing Page Design
-Author: https://www.figma.com/@itsmuntasirb?fuid=1280018648101202649
-Link: https://www.figma.com/community/file/1222060007934600841/Responsive-Landing-Page-Design-%7C-Website-Home-Page-Design-%7C-Agency-Website-UI-Design
+<p>Project: Responsive Landing Page Design</p>
+<p>Author: https://www.figma.com/@itsmuntasirb?fuid=1280018648101202649</p>
+<p>Link: https://www.figma.com/community/file/1222060007934600841/Responsive-Landing-Page-Design-%7C-Website-Home-Page-Design-%7C-Agency-Website-UI-Design</p>
 
 #Created using:
-<br>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"> 
-</a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"> 
-</a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="HTML" width="40" height="40"> 
-</a>
+<p align="left">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"> 
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"> 
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="HTML" width="40" height="40"> 
+  </a>
+</p>
