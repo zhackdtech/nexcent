@@ -31,3 +31,14 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="HTML" width="40" height="40"> 
   </a>
 </p>
+
+## About Me
+
+- [GitHub](https://github.com/zhackdtech)
+- [Facebook](https://www.facebook.com/profile.php?id=61550879160614)
+- [Instagram](https://www.instagram.com/marx.wil/)
+
+# Deployment
+
+Just download the files and then run it in your browser, or go to [live preview](https://zhackdtech.github.io/nexcent)
+
