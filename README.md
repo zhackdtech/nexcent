@@ -12,9 +12,12 @@
 </p>
 
 #About the design: 
-https://www.figma.com/community/file/1222060007934600841/Responsive-Landing-Page-Design-%7C-Website-Home-Page-Design-%7C-Agency-Website-UI-Design
+Project: Responsive Landing Page Design
+Author: https://www.figma.com/@itsmuntasirb?fuid=1280018648101202649
+Link: https://www.figma.com/community/file/1222060007934600841/Responsive-Landing-Page-Design-%7C-Website-Home-Page-Design-%7C-Agency-Website-UI-Design
 
 #Created using:
+<br>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"> 
 </a> 
