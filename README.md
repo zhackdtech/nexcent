@@ -1,8 +1,8 @@
 # nexcent
 <h3 align="center">Nexcent is a figma design created by Muntasir Billah, in which I developed into a Website.</h3>
 
-#📝 View more of this tye here: 
-[https://zhackdtech.github.io/portfolio-wilmarx/](https://zhackdtech.github.io/portfolio-wilmarx/)
+# 📝View more of this type here: 
+[Zhack D'tech](https://github.com/zhackdtech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
