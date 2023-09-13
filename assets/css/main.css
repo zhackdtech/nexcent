@@ -41,6 +41,26 @@ h3 {
   /* 128.571% */
 }
 
+h4 {
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px;
+  /* 140% */
+}
+
+.footer-link {
+  color: var(--neutral-silver, #F5F7FA);
+  /* Body/Regular/Body 3 */
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  /* 142.857% */
+}
+
 .body-regular-2 {
   /* Body/Regular/Body 2 */
   font-family: Inter;
@@ -95,26 +115,26 @@ button.btn-brand.btn-brand-primary:active {
   border-radius: 4px;
   background: var(--shade-s-2, #388E3B);
 }
-button.btn-brand.btn-brand-primary-link
-{
+
+button.btn-brand.btn-brand-primary-link {
   border-radius: 4px;
   border: 1px solid var(--neutral-white);
   background: var(--neutral-white);
-  color:var(--brand-primary);
+  color: var(--brand-primary);
 }
-button.btn-brand.btn-brand-primary-link:hover
-{
+
+button.btn-brand.btn-brand-primary-link:hover {
   border-radius: 4px;
   border: 1px solid var(--brand-primary) !important;
   background: var(--neutral-white);
 }
 
-button.btn-brand.btn-brand-primary-link:active
-{
+button.btn-brand.btn-brand-primary-link:active {
   border-radius: 4px;
   border: 1px solid var(--neutral-white) !important;
   background: var(--neutral-white);
 }
+
 .bs-icon {
   --bs-icon-size: .75rem;
   display: flex;
@@ -246,4 +266,14 @@ button.btn-brand.btn-brand-primary-link:active
 .client-row .client-icon-holder {
   width: 40px;
   height: 40px;
+}
+.footer-input
+{
+  color: var(--text-gray-300, #D9DBE1);
+/* Body/Regular/Body 3 */
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 142.857% */
 }
